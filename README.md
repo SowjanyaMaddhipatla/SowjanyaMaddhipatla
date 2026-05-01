@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<!--
+Iam Sowjanya Devi Maddhipatla
+
+I am an Undergraduate Researcher at IIIT Hyderabad in CSG (Computer Systems Group ) Lab
+Iam Pursuing B.tech in CSE with honors. My research area is Advanced Statistics methods.
+
+
 **SowjanyaMaddhipatla/SowjanyaMaddhipatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
